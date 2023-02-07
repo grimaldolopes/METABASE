@@ -18,3 +18,6 @@ Veja o que mais você aprenderá com o METABASE:
 - É uma ferramenta que utiliza os dados para responder as suas principais perguntas
 
 O METABASE é mundialmente conhecido e a cada dia, mais e mais empresas e profissionais começam a utilizá-la. 
+
+# Ebook sobre METABASE
+https://is.gd/EBOOKMETABASE
